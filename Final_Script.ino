@@ -22,9 +22,9 @@ byte trigger2count=0; //stores the counts past since trigger 2 was set true
 byte trigger3count=0; //stores the counts past since trigger 3 was set true
 int angleChange=0;
 
-String ssid ="TELUS4122";
+String ssid ="NAIT";
 
-String password="sahib123";
+String password="**********";
 
 SoftwareSerial esp(8, 9);// RX, TX
 
